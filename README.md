@@ -5,10 +5,10 @@
 
 ---
 
-## **Code Review**
+## **Code Review (Example 3)**
 - [Example 3 Code Review](https://github.com/masonwatson/FigAssessmentExample3/tree/master/Example3CodeReview/Example3CodeReview.ts)
 
-## **Client-side Code Edits**
+## **Client-side Code Edits (Example 3)**
 - ### **Component**
    - [User Profile Component TypeScript](https://github.com/masonwatson/FigAssessmentExample3/blob/master/Example3CodeEdits/user-profile.component.ts)
 - ### **Store**
